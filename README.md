@@ -1,9 +1,10 @@
-## Hi there 👋
+## :leaves::evergreen_tree: Welcome to Enchanted Jungle :palm_tree::deciduous_tree:
 
-<!--
-**Kisuk3S4m/Kisuk3S4m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **"*The dense foliage holds codes, and every path leads to new discoveries...*"**
 
-Here are some ideas to get you started:
+Congratulation, you have found this
+
+## ##
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
