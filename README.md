@@ -3,7 +3,7 @@
 
 **"*The dense foliage holds secrets in every line of code, and each path leads to fresh discoveries...*"**
 
-![Jungle Forest](jungle.avif)
+![Jungle Forest](jungle.png)
 
 Congratulations, traveler! You've found a path leading you here, to this enchanted place filled with hidden insights and untamed innovation.
 
