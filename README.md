@@ -7,6 +7,7 @@
     <img src="jungle_forest.jpg" alt="Jungle Forest" style="max-width: 100%; height: auto;">
     <img src="bamboo_forest.jpg" alt="Bamboo Forest" style="max-width: 100%; height: auto;">
     <img src="japanese_forest.jpg" alt="Japan Forest" style="max-width: 100%; height: auto;">
+    <img src="alps_forest.jpg" alt="Alps Forest" style="max-width: 100%; height: auto;">
 </div>
 
 Congratulations, traveler! You've found a path leading you here, to these enchanted places filled with hidden insights and untamed innovation.
