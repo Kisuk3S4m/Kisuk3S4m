@@ -10,8 +10,6 @@
     <img src="alps_forest.jpg" alt="Alps Forest" style="max-width: 100%; height: auto;">
 </div>
 
-Congratulations, traveler! You've found a path leading you here, to these enchanted places filled with hidden insights and untamed innovation.
-
 ## 🐸 About Me 🐸 ##
 - 📚 IT Engineering Student 📐
 - 💻 Part-Time Developer ⌨️
