@@ -3,8 +3,9 @@
 
 **"*The dense foliage holds secrets in every line of code, and each path leads to fresh discoveries...*"**
 
-![Jungle Forest](jungle.png)
-![Bamboo Forest](bamboo.jpg)
+![Jungle Forest](jungle_forest.jpg)
+![Bamboo Forest](bamboo_forest.jpg)
+![Japan Forest](japanese_forest.jpg)
 
 Congratulations, traveler! You've found a path leading you here, to this enchanted place filled with hidden insights and untamed innovation.
 
