@@ -11,9 +11,13 @@
 </div>
 
 ## 🐸 About Me 🐸 ##
+
+> Nice to meet you, my friend!  
+
+Let me introduce myself:
 - 📚 IT Engineering Student 📐
 - 💻 Part-Time Developer ⌨️
-- 🌱 Lifelong Learner 🌅  
+- 🌱 Lifelong Learner 🌅
 
 ## 📂 Programming Ecosystem ✍️ ##
 Learning and developing with these programming languages:
