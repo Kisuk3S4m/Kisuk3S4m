@@ -3,7 +3,7 @@
 </div>
 
 ## 🧑‍💻 About Me 🧑‍💻
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 20px;">
     <div>
         <h3 style="text-align: center;">
             ⚙️ Engineering <br> Student 📐
