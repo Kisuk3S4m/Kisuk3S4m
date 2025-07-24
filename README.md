@@ -17,6 +17,7 @@
 Let me introduce myself:
 - ⚙️ IT Engineering Student 📐
 - 💻 Part-Time Developer ⌨️
+- 🏎️ Motors Enjoyer 🐎
 - 🌱 Lifelong Learner 🌅
 
 ## 👩‍💻 Languages ✍️ ##
