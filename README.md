@@ -3,7 +3,7 @@
 </div>
 
 ## 🧑‍💻 About Me 🧑‍💻
-<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 20px;">
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 20px">
     <div>
         <h3 style="text-align: center;">
             ⚙️ Engineering <br> Student 📐
@@ -12,11 +12,11 @@
     </div>
     <div>
         <h3 style="text-align: center;">🏎️ Motorsports <br> Enjoyer 🐎</h3>
-        <img src="f1_horse.png" alt="Motorsports" width="128" height="128" style="border-radius: 10px;">
+        <img src="race_horse.png" alt="Motorsports" width="192" height="128" style="border-radius: 10px;">
     </div>
     <div>
         <h3 style="text-align: center;">🌱 Lifelong <br> Learner 🌅</h3>
-        <img src="orangutan_botanic.png" alt="Lifelong Learner" width="128" height="128" style="border-radius: 10px;">
+        <img src="orangutan.png" alt="Lifelong Learner" width="128" height="128" style="border-radius: 10px;">
     </div>
 </div>
 
