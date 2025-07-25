@@ -3,7 +3,7 @@
 ## 🧑‍💻 About Me 🧑‍💻
 | ⚙️ Engineering Student | 🏎️ Motorsports Enjoyer | 🌱 Lifelong Learner |
 |:---------------------:|:----------------------:|:------------------:|
-| <img src="beaver_engineer.png" alt="Future IT Engineer" width="128" height="128"> | <img src="race_horse.png" alt="Motorsports" width="192" height="128"> | <img src="orangutan.png" alt="Lifelong Learner" width="128" height="128"> |
+| <img src="beaver.png" alt="Future IT Engineer" width="128" height="128"> | <img src="horse.png" alt="Motorsports" width="192" height="128"> | <img src="orangutan.png" alt="Lifelong Learner" width="128" height="128"> |
 
 ## 👩‍💻 Languages ✍️
 
