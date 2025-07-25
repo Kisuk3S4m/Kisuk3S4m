@@ -11,6 +11,7 @@
 Learning and developing with these programming languages:
 
 ![Go Logo](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## 💾 Database 💾
 
