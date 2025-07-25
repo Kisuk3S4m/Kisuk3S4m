@@ -1,33 +1,19 @@
-<div align="center">
-    <h1>Welcome to my profile
-</div>
+# Welcome to my profile
 
 ## 🧑‍💻 About Me 🧑‍💻
-<div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 20px">
-    <div>
-        <h3 style="text-align: center;">
-            ⚙️ Engineering <br> Student 📐
-        </h3>
-        <img src="beaver_engineer.png" alt="Future IT Engineer" width="128" height="128" style="border-radius: 10px;">
-    </div>
-    <div>
-        <h3 style="text-align: center;">🏎️ Motorsports <br> Enjoyer 🐎</h3>
-        <img src="race_horse.png" alt="Motorsports" width="192" height="128" style="border-radius: 10px;">
-    </div>
-    <div>
-        <h3 style="text-align: center;">🌱 Lifelong <br> Learner 🌅</h3>
-        <img src="orangutan.png" alt="Lifelong Learner" width="128" height="128" style="border-radius: 10px;">
-    </div>
-</div>
+| ⚙️ Engineering Student | 🏎️ Motorsports Enjoyer | 🌱 Lifelong Learner |
+|:---------------------:|:----------------------:|:------------------:|
+| <img src="beaver_engineer.png" alt="Future IT Engineer" width="128" height="128"> | <img src="race_horse.png" alt="Motorsports" width="192" height="128"> | <img src="orangutan.png" alt="Lifelong Learner" width="128" height="128"> |
 
-## 👩‍💻 Languages ✍️ ##
+## 👩‍💻 Languages ✍️
+
 Learning and developing with these programming languages:
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Logo" style="max-width: 100%; height: auto;">
-</div>
+
+![Go Logo](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## 💾 Database 💾
+
 Learning and using these databases:
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres logo" style="max-width: 100%; height:auto;">
-</div>
+
+![Postgres logo](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
